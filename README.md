@@ -25,27 +25,43 @@ Revenue Generated
 
 Regression
 
+**Research Questions**
+
+1. How well do baseline models predict revenue?
+
+2. Which model performs best for this dataset?
+
+3. How does preprocessing affect performance?
+
+4. Which features influence revenue the most?
+
+5. How sensitive are models to evaluation metrics?
+
+6. How robust are models under cross-validation?
+
+7. Which model is most suitable for real-world deployment?
+
 **Model used:**
 
-Linear Regression
+1. Linear Regression
 
-Decision Tree
+2. Decision Tree
 
-KNN
+3. KNN
 
-Random Forest
+4. Random Forest
 
-XGBoost
+5. XGBoost
 
-SVM
+6. SVM
 
 **Evaluation Metrics (Regression)**
 
-MAE
+1. MAE
 
-RMSE
+2. RMSE
 
-R²
+3. R²
 
 **How to Run**
 
@@ -61,13 +77,13 @@ The notebook will train the models and generate tables and figures.
 
 The notebook includes visible outputs such as:
 
-Model performance tables
+1. Model performance tables
 
-Feature importance results
+2. Feature importance results
 
-Cross-validation results
+3. Cross-validation results
 
-Graphs and figures
+4. Graphs and figures
 
 **Requirements**
 
