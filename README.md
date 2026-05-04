@@ -1,4 +1,5 @@
 **Overview**
+
 This project analyzes a marketing and product performance dataset using supervised learning techniques to identify key factors influencing sales, revenue, and customer behavior. It also applies various machine learning models to generate insights through research questions, supported by tables and visualizations for data-driven decision-making.
 
 **Project Title**
@@ -25,23 +26,35 @@ Revenue Generated
 Regression
 
 **Model used:**
+
 Linear Regression
+
 Decision Tree
+
 KNN
+
 Random Forest
+
 XGBoost
+
 SVM
 
 **Evaluation Metrics (Regression)**
+
 MAE
+
 RMSE
+
 R²
 
 **How to Run**
 
 Open the Jupyter Notebook in Kaggle.
+
 Add the dataset from the source:Kaggle, where link is attached above.
+
 Run all 7 notebook one by one.
+
 The notebook will train the models and generate tables and figures.
 
 **Outputs**
@@ -49,8 +62,11 @@ The notebook will train the models and generate tables and figures.
 The notebook includes visible outputs such as:
 
 Model performance tables
+
 Feature importance results
+
 Cross-validation results
+
 Graphs and figures
 
 **Requirements**
